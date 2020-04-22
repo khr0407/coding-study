@@ -1,6 +1,6 @@
 # [ 14501 ] Retirement
 
-Tags: 1st week, Retry, Samsung
+Tags: 1st week, Retry, Samsung <br>
 URL: https://www.acmicpc.net/problem/14501
 
 ## Solution
@@ -142,9 +142,9 @@ vs. i번째 날 상담을 해서 i+T.at(i)번째 날로 넘어가기
 예시)
 
 <div>
-    <img width="250" src="https://user-images.githubusercontent.com/29090060/79953350-abd50480-84b6-11ea-8d0b-e3ef4d615f2e.png"> 초기 상태<br>
-    <img width="250" src="https://user-images.githubusercontent.com/29090060/79953389-be4f3e00-84b6-11ea-8ecb-729b8e985064.png"> i=2 되기 직전<br>
-    <img width="250" src="https://user-images.githubusercontent.com/29090060/79953408-c313f200-84b6-11ea-9f43-d16221f20953.png"> i=2) 1-1 경우: i-1번째 날에 상담을 하지 않을 경우 수익이 더 크다.<br>
-    <img width="250" src="https://user-images.githubusercontent.com/29090060/79953399-c0b19800-84b6-11ea-8ccb-deda6692e421.png"> i=2) 2-2 경우: i번째 날에 상담을 할 경우 수익이 더 크다.<br>
+    <img width="250" src="https://user-images.githubusercontent.com/29090060/79953350-abd50480-84b6-11ea-8d0b-e3ef4d615f2e.png"> 초기 상태
+    <img width="250" src="https://user-images.githubusercontent.com/29090060/79953399-c0b19800-84b6-11ea-8ccb-deda6692e421.png"> i=2 되기 직전<br>
+    <img width="250" src="https://user-images.githubusercontent.com/29090060/79953389-be4f3e00-84b6-11ea-8ecb-729b8e985064.png"> i=2) 1-1 경우: i-1번째 날에 상담을 하지 않을 경우 수익이 더 크다.
+    <img width="250" src="https://user-images.githubusercontent.com/29090060/79953408-c313f200-84b6-11ea-9f43-d16221f20953.png"> i=2) 2-2 경우: i번째 날에 상담을 할 경우 수익이 더 크다.<br>
 </div>
 
