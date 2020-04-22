@@ -144,8 +144,8 @@ vs. i번째 날 상담을 해서 i+T.at(i)번째 날로 넘어가기
 ![14501%20Retirement/Untitled%202.png](https://user-images.githubusercontent.com/29090060/79953350-abd50480-84b6-11ea-8d0b-e3ef4d615f2e.png)
 
 <div>
-    <img width="200" src="https://user-images.githubusercontent.com/29090060/79953389-be4f3e00-84b6-11ea-8ecb-729b8e985064.png"> 초기 상태
-    <img width="200" src="https://user-images.githubusercontent.com/29090060/79953408-c313f200-84b6-11ea-9f43-d16221f20953.png> i=2 되기 직전
+    <img width="200" src="https://user-images.githubusercontent.com/29090060/79953389-be4f3e00-84b6-11ea-8ecb-729b8e985064.png"> 초기 상태<br>
+    <img width="200" src="https://user-images.githubusercontent.com/29090060/79953408-c313f200-84b6-11ea-9f43-d16221f20953.png> i=2 되기 직전<br>
 </div>
 
 i=2) 1-1 경우
