@@ -9,7 +9,7 @@ URL: https://www.acmicpc.net/problem/14501
 
 ## Score
 
-![14501%20Retirement/Untitled.png](14501%20Retirement/Untitled.png)
+![14501%20Retirement/Untitled.png](https://user-images.githubusercontent.com/29090060/79953338-a4156000-84b6-11ea-9d7e-958b66e49f1b.png)
 
 769: 위 코드
 
